@@ -75,18 +75,5 @@ Proyek ini berfokus pada **identifikasi dan pemetaan lahan sawah** dalam rangka 
 <p align="center">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Spatial%20Analysis-2E8B57?style=for-the-badge">
 </p>
-
----
-
-## 📂 Struktur Data
-
-```txt
-repository/
-│
-├── README.md
-└── assets/
-    └── output/
-        └── lp2b-preview.png
